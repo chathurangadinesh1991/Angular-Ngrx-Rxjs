@@ -20,7 +20,6 @@ import { HomeComponent } from './home/home.component';
 import { addEmployeeReducer } from 'src/reducers/employee.reducer';
 import { StoreModule } from '@ngrx/store';
 
-
 @NgModule({
   declarations: [
     AppComponent,
